@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "amazon-paapi": "1.3.3"
+    "amazon-paapi": "latest"
   }
 }
