@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "amazon-paapi": "^1.2.1"
+  }
+}
